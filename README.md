@@ -2,4 +2,4 @@
 
 Older player shows:
 papier
-Younger player shows::q
+Younger player shows:
