@@ -1,5 +1,4 @@
 # PR-RPS
 
-Older player shows:
-
-Younger player shows: Rock
+Older player shows:papier
+Younger player shows: rock
