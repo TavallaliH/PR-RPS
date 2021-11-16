@@ -1,5 +1,5 @@
 # PR-RPS
 
 Older player shows:
-papier
+papier..
 Younger player shows: 
